@@ -1,0 +1,11 @@
+# https://www.robotstxt.org/robotstxt.html
+# Last Updated: April 11, 2024
+
+User-agent: *
+
+Disallow: /carriers
+Disallow: /heartland
+Disallow: /not-found
+Disallow: /showcase
+
+Sitemap: https://myhealthily.com/sitemap.xml

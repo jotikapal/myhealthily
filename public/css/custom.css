@@ -1,0 +1,31 @@
+.footer-text-color {
+	color: #f0f0f0;
+}
+
+.button-adjust {
+	left: 110%;
+	top: -40px;
+}
+
+.cta-padding {
+	left: 110%;
+	top : -40px;
+}
+
+.image-padding-1 {
+	top: 10%;
+	left: -50%;
+}
+
+.image-padding-2 {
+	top: -33%;
+	left: -29%;"
+}
+
+.image-padding-top {
+	top: 1.7rem;
+}
+
+.toggle-content {
+	transition: max-height 1s;
+}
